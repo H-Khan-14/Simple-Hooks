@@ -1,3 +1,9 @@
+# Simple Hooks
+
+Simple Hooks is a React based web application that shows famous other and by clicking allows you to see their famous quotes (actually just random latin phrases). The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js and ES6.
+
+[Live Demo](https://h-khan-14.github.io/Simple-Hooks/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
